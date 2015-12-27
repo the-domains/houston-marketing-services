@@ -1,0 +1,28 @@
+name: Houston Marketing Services
+favicon: null
+layout_spectrum: 0.8279131897725165
+typography_spectrum: 0.6024395546410233
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.47536297724582255
+  lightness: 0.367448128759861
+  saturation: 0.4897411863785237
+  rhythmicContrast: 0.9540018301922828
+purpose: []
